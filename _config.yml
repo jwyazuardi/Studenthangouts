@@ -1,6 +1,6 @@
-<<<<<<< Local Changes
+
 # Site Settings
-title:Student Hangouts 
+title: Student Hangouts 
 email: jwyazuardi@gmail.com
 description: >
 The Place Where Students Hangout With One Another
@@ -16,6 +16,5 @@ kramdown:
   input: GFM
 
 
-=======
->>>>>>> External Changes
+
 
