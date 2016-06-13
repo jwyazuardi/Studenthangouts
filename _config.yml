@@ -1,0 +1,21 @@
+<<<<<<< Local Changes
+# Site Settings
+title:Student Hangouts 
+email: jwyazuardi@gmail.com
+description: >
+The Place Where Students Hangout With One Another
+baseurl: ""
+url: "http://127.0.0.1:4000/"
+twitter_username: jwyazuardi
+github_username:  jwyazuardi
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+
+
+=======
+>>>>>>> External Changes
+
